@@ -1,8 +1,17 @@
-# Hello! I'm Diyana 👋
+# Hi, I'm Diyana
 
-🔍 QA enthusiast exploring the world of software quality and testing.  
-🎯 Currently learning the fundamentals of QA, operating systems, networks, and tools such as Qase, Jira, Trello, and Postman.  
-🧠 Passionate about logical thinking, problem-solving, and uncovering bugs.  
-🌿 Outside of tech, I enjoy music, fantasy books, and long walks.  
+## About Me
+I am currently learning QA methodologies, operating systems, networks, and industry-standard tools.
+I am interested in logical problem-solving, good practices, and processes in software quality.  
+ 
+## Tools & Technologies
+- Jira  
+- Qase  
+- Postman  
+- Docker  
 
-🚀 Building my portfolio here on GitHub as I grow my skills and experience.
+## Beyond Tech
+Outside of technology, I enjoy music, fantasy literature, and spending time outdoors.  
+
+## Goals
+I am developing my skills and portfolio here on GitHub to grow as a QA professional.
